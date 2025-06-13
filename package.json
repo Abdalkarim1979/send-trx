@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bs58": "^6.0.0",
+    "core-js": "^3.42.0",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.6.1",
+    "tonweb": "^0.0.66",
+    "trongrid": "^1.2.6",
+    "tronweb": "^6.0.3"
+  }
+}
